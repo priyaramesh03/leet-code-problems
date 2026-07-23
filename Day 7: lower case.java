@@ -1,0 +1,5 @@
+public class{
+    public String toLowerCase(String s) {
+        return s.toLowerCase();
+    }
+}
